@@ -1,0 +1,33 @@
+footer {
+	height: 150px;
+	width: 100%;
+  background-image: linear-gradient(rgba(128, 128, 128, 0.507),rgb(128, 128, 128));;
+	border: 2px solid green;
+	color: black;
+	box-shadow: 6px 6px 12px 12px gray;
+	text-align: center;
+	margin-top: 690px;
+}
+
+.centre {
+	text-align: center;
+	margin-top: 50px;
+}
+.titre{
+	text-align: center;
+	font-family: 'Times New Roman', serif;
+
+}
+.inscription{
+	text-align: center;
+}
+#contenue{
+	text-align: center;
+}
+.h1{
+	margin-top: 600px;
+	align-items: center;
+	text-align: center;
+	font-family: 'Times New Roman', serif;
+	box-shadow: 6px 6px 12px 12px gray;
+}
